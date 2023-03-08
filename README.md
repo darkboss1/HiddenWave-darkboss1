@@ -1,5 +1,4 @@
 # HiddenWave-darkboss1
-# HiddenWave
 Embedding secret messages in wave audio file
 
 # What is HiddenWave
